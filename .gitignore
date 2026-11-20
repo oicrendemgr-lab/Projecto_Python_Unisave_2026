@@ -1,0 +1,31 @@
+# Ficheiros temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Configurações dos editores
+.vscode/
+.idea/
+
+# Ficheiros do sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ficheiros temporários
+*.tmp
+*.log
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ficheiros de ambiente
+.env
