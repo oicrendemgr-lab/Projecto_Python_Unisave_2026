@@ -6,6 +6,7 @@ Elementos do Grupo
 
 1. Flávio Sebastião Nhacuonga(nhacuongaflavio31-wq!)
 2. Ednercio Castro Gujamo (oicrendemgr-lab)
+3. Isabel Jochua (isabelcubane)
 
 Funcionalidades
 
